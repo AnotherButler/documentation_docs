@@ -10,7 +10,7 @@ The style guide has two parts:
 
 2. [mbed-specific tips](#mbed).
 
-The trick with a style guide isn’t to remember the right way of using all of these - it’s to remember that you need to look it up.
+The trick with a style guide isn’t to remember the right way of using all of these - it’s to remember that you need to look them up.
 
 If you want more information about writing, see our [writing guide](writing_guide.md). It deals with things like writing examples and instructions, ordering your text and self-editing.
 
