@@ -74,14 +74,5 @@ The ARM style guide has a summary of the most consistent differences between Bri
 * Words ending in -ogue end in -og. 
 	* For example: — Dialogue is dialog
 
-## Spelling
-
-* Put all your text into something that can check your spelling. Do not trust yourself.
-
-* Do not trust the spellchecker.
-
-* Okay, that was a bit unfair. If you’re not sure you’ve got the correct spelling, you can do two things: google the spelling you have and see what the dictionary says, or google both forms (“x or y?”) and see if anyone explains the difference. If the only difference is that one is British and one is American, please use American.
-
-* Do not use all-caps unless that is the legal form of a name (so it's ARM, not Arm).
 
 
