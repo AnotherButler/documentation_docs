@@ -18,6 +18,7 @@ Your docs should sit in the same GitHub repository as the code whenever possible
 ### Using the YML to create the project and its table of contents
 
 We use the **old YML format** to organize pages. For example, this is the YML for the project you're currently reading:
+
 ```
 site_name: Documentation Guides
 
@@ -25,7 +26,8 @@ docs_dir: Docs
 
 pages:
 - ['index.md','Introduction to the Documentation Guides']
-- ['publishing_guide.md', 'Publishing Guide', 'Publishing guide']
+- ['publishing_guide.md', 'Publising on docs.mbed', 'Publishing guide']
+- ['project.md', 'Publising on docs.mbed', 'Creating your own project']
 - ['style_guide.md', 'Writing Guides', 'Style guide']
 - ['writing_guide.md', 'Writing Guides', 'Writing guide']
 - ['product_names.md', 'Writing Guides', 'Product names']
