@@ -24,18 +24,26 @@ site_name: Documentation Guides
 
 docs_dir: Docs
 
-pages:
 - ['index.md','Introduction to the Documentation Guides']
 - ['publishing_guide.md', 'Publising on docs.mbed', 'Publishing guide']
 - ['project.md', 'Publising on docs.mbed', 'Creating your own project']
-- ['style_guide.md', 'Writing Guides', 'Style guide']
-- ['writing_guide.md', 'Writing Guides', 'Writing guide']
-- ['product_names.md', 'Writing Guides', 'Product names']
+- ['style_guide.md', 'Style Guide', 'Introduction']
+- ['words.md', 'Style Guide', 'Word choices and grammar']
+- ['punc_cap.md', 'Style Guide', 'Punctuation and capitalization']
+- ['tech_terms.md', 'Style Guide', 'Technical terms']
+- ['product_names.md', 'Style Guide', 'Product names']
+- ['units.md', 'Style Guide', 'Units of measurement']
+- ['writing_guide.md', 'Writing Guide', 'Introduction']
+- ['writing_tips.md', 'Writing Guide', 'Writing tips']
+- ['maps.md', 'Writing Guide', 'Creating a map before you write']
+- ['fleshing_out.md', 'Writing Guide', 'Fleshing out your map']
+- ['examples.md', 'Writing Guide', 'How to give examples']
+- ['Editing.md', 'Writing Guide', 'Editing yourself']
 ```
 
 In ``pages``, the elements are:
 
-1. Page_name.md
+1. ``Page_name.md``.
 1. Section title (not mandatory; the first page in this project isn't under a section title).
 1. Page title.
 

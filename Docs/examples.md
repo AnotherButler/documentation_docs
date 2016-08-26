@@ -4,11 +4,11 @@ Example time! Some of these are from this guide, some from the [BLE Intros](http
 
 ## Example one
 
-> "Introductions (to the document or sections in the document) are the only places that can link ahead, unless you're specifically telling people "you can skip this if…". Everything else should only link to something that came before it (and that the user is therefore expected to have read). Otherwise, it's likely that you're telling readers that information that's essential to understand now is explained at a later point in the document. This is a good hint that your document is not organised logically. Do not make the readers jump around."
+> "Introductions (to the document or sections in the document) are the only places that can link ahead, unless you're specifically telling people "you can skip this if…". Everything else should only link to something that came before it (and that the user is therefore expected to have read). Otherwise, it's likely that you're telling readers that information that's essential to understand now is explained at a later point in the document. This is a good hint that your document is not organized logically. Do not make the readers jump around."
 
 This text is quite messy. The main point is near the end, the thing you shouldn't do is in the middle and the thing you're allowed to do is at the beginning but its wording is confused. There is no clear context to this text (even when you put it under the heading of "cross-referencing"), and because everything was mixed it wasn't clear that the exceptions to the rule are missing. This is somewhat better:
 
-> "The information in your document should be introduced in the order in which a reader is expected to learn it; readers shouldn't have to jump between sections to put the story together. Cross-references should therefore link back (to things the reader is expected to have read already), not forward. However, there are times when forward referencing is correct:
+> "Introduce information in the order in which you expect the reader to learn it; readers shouldn't have to jump between sections to put the story together. Cross-references should therefore link back (to things the reader has already read), not forward. However, there are times when you should forward reference:
 
 > 1. In an introduction, where it allows people to skip to the interesting bits (it functions like a table of contents). This is true for all introductions - for the whole doc, for a chapter, for a section or set of instructions - anything.
 
@@ -71,19 +71,3 @@ This is the edited version:
 > * Doesn't generate a response from the client."
 
 The two main changes are a move from passive to active voice, and bullet points instead of a long sentence. You'll also note that I moved the result ("we can repurpose…") ahead of the cause ("because it..."). This is an easier structure to follow.
-
-## Writer's blocks aren't just for fiction writers
-
-Got writer's block? Trying to edit yourself but keep reverting back to the original? Not to worry - generations of writers have successfully dealt with these same issues with little more than these helpful tips (and alcohol, chain smoking and criminal behaviour):
-
-* Look away from the text for a while: work on something else, take a walk, make a cup of tea.
-
-* Put bits of your text through Google Translate a few times. It should give you an interesting view of it (and a good giggle).
-
-* Move to a different part of the text. 
-
-* Try explaining it out loud to someone. They don't actually have to pay attention.
-
-* Listen to a song you like for its lyrics.
-
-* Spit it out, no matter how bad it is. You can edit later. Note: I don't approve of this method, because I think a first draft stays with you forever; it influences all future edits, no matter how bad it is.

@@ -72,11 +72,6 @@ Don’t mix and match ideas, explaining bits and pieces of each in a random orde
 
 Last, please remember to clearly link the dots: causation, contrast or continuation.
 
-## Guessing at prior knowledge
-
-How much prior knowledge can you assume when writing? The easiest way to figure it out is to pretend you’re writing a chapter for a book. Where in the book will the chapter come? If it’s the very first chapter, you can’t assume any prior knowledge. If it’s in the middle, everything that would have come before can be assumed to be prior knowledge. 
-
-Of course, guessing how much your readers know is the easy bit (I mean, it's a guess - it's going to be wrong). Sticking to it when you write is much harder. Developers tend not to understand how little an agreed readership actually knows (if they knew this much, they wouldn't be reading), how unintuitive some of the developers' intuitive leaps are, and how dense some of their "simple introductions" are. When writing, it's better to aim lower; readers can skim and skip much more easily than they can fill in the gaps.
 
 ## Giving examples
 

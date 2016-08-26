@@ -90,11 +90,13 @@ Wherever you put the differences, it's helpful to readers if you flag them with 
 
 ## Cross referencing
 
-It's helpful to cross reference - with links. Do note that the information in your document should be introduced in the order in which a reader is expected to learn it; readers shouldn't have to jump between sections to put the story together. Cross-references should therefore link back (to things the reader is expected to have read already), not forward. However, there are times when forward referencing is correct:
+It's helpful to cross reference - with links. 
+
+Introduce information in the order in which you expect the reader to learn it; readers shouldn't have to jump between sections to put the story together. Cross-references should therefore link back (to things the reader has already read), not forward. However, there are times when you should forward reference:
 
 * In an introduction, where it allows people to skip to the interesting bits (it functions like a table of contents). This is true for all introductions - for the whole doc, for a chapter, for a section or set of instructions - anything.
 
-* When you're telling people "if x then you can skip to y", giving knowledgeable readers a handy bypass of the beginners' stuff.
+* When you're telling people "if you're already familiar with x, skip to y", giving knowledgeable readers a handy bypass of the beginners' stuff.
 
 * When saying "this is all you need for now, but we'll go further into this at a later section". Here the purpose of the reference is to allow curious readers to see ahead, not to provide essential information.
 
