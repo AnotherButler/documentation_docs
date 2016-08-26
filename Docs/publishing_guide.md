@@ -142,11 +142,9 @@ Code transclusion follows the same logic as page transclusion above; the differe
 2. ``(https://www.mbed.com/embed/?url=repo_URL)``
 3. ``(https://github.com/full_path_to_code_file.cpp)``
 
-That gives you 
+That gives you:
 
-```
-[![View code](https://www.mbed.com/embed/?url=https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/)](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/file/tip/main.cpp)
-```
+	[![View code](https://www.mbed.com/embed/?url=https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/)](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/file/tip/main.cpp)
 
 On GitHub, you'll see only a button; on docs.mbed you'll also see the code itself.
 
@@ -190,5 +188,3 @@ Note:
 
 1. Please follow the general [Doxygen guidelines](http://www.stack.nl/~dimitri/doxygen/) to write your comments.
 1. To generate a main page for your Doxygen, please create a markdown file in your repository's root called ``DOXYGEN_FRONTPAGE.md``.
-
-
