@@ -136,7 +136,9 @@ Code transclusion follows the same logic as page transclusion above; the differe
 
 That gives you 
 
-```[![View code](https://www.mbed.com/embed/?url=https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/)](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/file/tip/main.cpp)```
+```
+[![View code](https://www.mbed.com/embed/?url=https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/)](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/file/tip/main.cpp)
+```
 
 On GitHub, you'll see only a button; on docs.mbed you'll also see the code itself.
 
