@@ -148,6 +148,8 @@ That gives you:
 
 On GitHub, you'll see only a button; on docs.mbed you'll also see the code itself.
 
+[![View code](https://www.mbed.com/embed/?url=https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/)](https://developer.mbed.org/teams/mbed-os-examples/code/mbed-os-example-blinky/file/tip/main.cpp)
+
 It's a good idea to transclude code from a branch that is not Master. If you transclude from Master the code will always be up to date - even if your docs are now a frozen version that should show the older code.
 
 ## Versioning your docs
