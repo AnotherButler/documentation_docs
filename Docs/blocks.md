@@ -16,4 +16,6 @@ Got writer's block? Trying to edit yourself but keep reverting back to the origi
 
 * If you're bilingual, write or read in your other language. It can be either the same piece you're blocked on, or a completely different topic.
 
+* Talk to yourself. Type it out, but don't worry about *writing*. Just talk it through.
+
 * Spit it out, no matter how bad it is. You can edit later. Note: I don't approve of this method, because I think a first draft stays with you forever; it influences all future edits, no matter how bad it is.

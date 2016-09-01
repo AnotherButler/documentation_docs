@@ -41,38 +41,3 @@ If you’re not sure, follow this emergency procedure:
 3. Note that when those two disagree we follow the Guardian, unless we like the Economist’s advice better.
 
 4. When all else fails, ask Google. Try to remain with fairly recent sources; you don’t want Advice from the Period of English when all Nouns got a Capital.
-
-## A word about American v British English
-
-ARM uses the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/16/contents) and [Merriam-Webster's Collegiate Dictionary](http://www.merriam-webster.com/). Both of these are in American English (or International English, which follows the American spelling). 
-
-To pick a spelling for a word with two or more commonly used options, go to Merriam-Webster and use the spelling listed first. 
-
-The ARM style guide has a summary of the most consistent differences between British and International English:
-
-* Past and continuous tense of words ending in -l do not use -ll. For example: 
-	* Cancelled is canceled. 
-	* Cancelling is canceling. 
-	* Labelled is labeled. 
-	* Labelling is labeling. 
-
-* Words ending in -ise end in -ize. For example:
-	* Initialise is initialize. 
-	* Customise is customize. 
-
-* Words ending in -yse end in -yze. For example: 
-	* Analyse is analyze. 
-
-* Words ending in -our end in -or. For example: 
-	* Colour is color. 
-	* Behaviour is behavior. 
-
-* Past and past participle tense of words ending in -t end in -ed. For example: 
-	* Learnt is learned. 
-	* Spelt is spelled. 
-
-* Words ending in -ogue end in -og. 
-	* For example: — Dialogue is dialog
-
-
-

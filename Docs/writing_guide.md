@@ -11,7 +11,9 @@ It covers:
 
 * [Fleshing out](fleshing_out.md) your map so that people understand you.
 
-* How to [edit yourself](editing.md).
+* [Writing instructions](instructions.md) clearly and consistently. 
+
+* [Editing yourself](editing.md).
 
 And a few other topics.
 
