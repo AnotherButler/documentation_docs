@@ -17,10 +17,12 @@ pages:
 - ['words.md', 'Style Guide', 'Words, voices and grammar']
 - ['punc_cap.md', 'Style Guide', 'Punctuation and capitalization']
 - ['product_names.md', 'Style Guide', 'Product names']
+- ['examples.md', 'Style Guide', 'Sample edits']
 - ['units.md', 'Style Guide', 'Units of measurement']
 - ['ambiguity.md', 'Style Guide', 'Ambiguity']
 - ['examples.md', 'Style Guide', 'Sample edits']
 - ['publishing_guide.md', 'Publising on docs.mbed', 'Publishing guide']
 - ['project.md', 'Publising on docs.mbed', 'Creating your own project']
+
 
 copyright: © ARM Ltd. Copyright 2016 – ARM mbed IoT Device Platform
