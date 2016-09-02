@@ -42,17 +42,17 @@ In short, you need to think of the logic of what you’re saying, then punctuate
 
 Think of punctuation as having a hierarchy, based on the type of logical unit – topic, idea, some extra bit of information – and its relationship to other units.
 
-__Topic__
+#### Topic
 
 A **paragraph**. Yes, a paragraph break is a kind of punctuation. 
 
-__Idea__
+#### Idea
 
 A sentence. If you have two ideas, you need two sentences. You combine ideas about a topic – two or more sentences – into a paragraph (but it’s okay sometimes to have a one-sentence paragraph). 
 
 The main sentence indicator is a **period** (or **full stop**), which you don’t use nearly as often as you should. **Question marks** and **exclamation marks** also count, but please minimize their use. 
 
-__Some extra bit of information__
+#### Some extra bit of information
 
 This is where it gets messy:
 
@@ -68,7 +68,7 @@ This is where it gets messy:
 
 Yes, these are all horribly simplified. But since we’re dealing with technical writing, not poetry, it’s okay to use simplified punctuation. It’s better than okay. 
 
-__Summary__ 
+### Summary
 
 When communicating technical information, think of punctuation in a very technical way: "punctuation mark, bit of logic, punctuation mark". Limit yourself to the most basic use of each mark, and when in doubt – start a new sentence.
 
@@ -112,6 +112,7 @@ The second role of the comma is to control the flow of the sentence; more a musi
 >“For a long while I have believed – this is perhaps my version of Sir Darius Xerxes Cama’s belief in a fourth function of outsideness – that in every generation there are a few souls, call them lucky or cursed, who are simply born not belonging, who come into the world semi-detached, if you like, without strong affiliation to family or location or nation or race; that there may even be millions, billions of such souls, as many non-belongers as belongers, perhaps; that, in sum, the phenomenon may be as “natural” a manifestation of human nature as its opposite, but one that has been mostly frustrated, throughout human history, by lack of opportunity. 
 >
 >— Salman Rushdie, The Ground Beneath Her Feet
+
 That’s prose, and in terms of punctuation it’s as far away as you can get from technical writing without tripping over James Joyce. 
 
 As we said above, this isn't a good technique for technical writing. You're not trying to create an atmosphere - you're trying to communicate complex information in a simple way. Musical punctuation can only get your readers into trouble; some slower readers will not be able to parse the Rushdie quote.
