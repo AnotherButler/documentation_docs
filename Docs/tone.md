@@ -9,3 +9,7 @@ First, they clearly know what they're talking about and talk only about what the
 Second, they don't talk down to you, but they also don't start the conversation at a PhD level. They explain things clearly: all the facts in plain words, a couple of examples or metaphors to help solidify it in your mind. They don't insult you for not knowing something, or tell you that you're too ignorant to be listening to them.
 
 Last, although they use plain words, they don't use unprofessional language; very little slang, no phrases that listeners will associate with high-school students, no attempts to hype up their science with overzealous marketing-speak and jargon.
+
+This doesn't mean they don't have a sense of humor. Some of them could probably have had a successful comedy career. But they're never childish or rude, and they never give you the feeling they're insulting *you*. Their humor is sharp wit, directed at physics or biology, not at people. 
+
+So when you write, try to imagine this scientist reading your text. Doesn't work? Then change your text until, suddenly, it sounds like one of your favorite talks.
