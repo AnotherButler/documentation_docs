@@ -22,3 +22,5 @@
 
 * mbed uVisor.
 
+* TrustZone for ARMv8-M
+
