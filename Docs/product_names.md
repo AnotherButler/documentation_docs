@@ -10,11 +10,17 @@
 
 * mbed CLI. It's only mbed-cli when you're talking about the repo or pacakge.
 
+* mbed Cloud.
+
 * mbed Cloud Client.
+
+* mbed Cloud Portal.
 
 * mbed Device Connector.
 
 * mbed Enabled (to match the name of the partner program).
+
+* mbed Online Compiler. 
 
 * mbed OS (two words), not mbedOS or mbed-OS. And not mbed os. It's only mbed-os when you're talking about the repo.
 
