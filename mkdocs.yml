@@ -22,7 +22,7 @@ pages:
 - ['ambiguity.md', 'Style Guide', 'Ambiguity']
 - ['examples.md', 'Style Guide', 'Sample edits']
 - ['publishing_guide.md', 'Publising on docs.mbed', 'Publishing guide']
-- ['project.md', 'Publising on docs.mbed', 'Creating your own project']
+- ['project.md', 'Publishing on docs.mbed', 'Creating your own project']
 
 
 copyright: © ARM Ltd. Copyright 2016 – ARM mbed IoT Device Platform
